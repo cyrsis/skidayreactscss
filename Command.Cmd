@@ -1,2 +1,1 @@
-git add .
-git commit -am "Save before ejecting"
+yarn add react-router@3.2.0
